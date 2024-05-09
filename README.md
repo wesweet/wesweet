@@ -11,7 +11,7 @@
 - ✍️ [MyBlog](https://blog.panrui.top/)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](1547177202@qq.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/wesweet/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/wesweet?label=follow%20me&style=social)](https://github.com/wesweet/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Stay hungry，Stay foolish.」** ❤️
